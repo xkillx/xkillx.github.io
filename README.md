@@ -12,7 +12,7 @@
 
 ## 💡 About Me
 
-I'm a backend engineering enthusiast with 8 years of experience turning complex challenges into elegant, scalable solutions. I've built resilient systems in finance, telecom, and digital identity industries using Java, Spring Boot, Docker, and databases like Oracle and MySQL.
+I'm a backend engineering enthusiast with 10 years of experience turning complex challenges into elegant, scalable solutions. I've built resilient systems in finance, telecom, and digital identity industries using Java, Spring Boot, Docker, and databases like Oracle and MySQL.
 
 I thrive in deep-dive debugging, clean code architecture, and crafting high-performance systems. Backend engineering isn't just my profession—it's my playground.
 
@@ -22,6 +22,7 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 
 - 🧠 **Languages:** Java, SQL, PL/SQL  
 - 🚀 **Frameworks:** Spring Boot, Vert.x, JSP, Struts  
+- 🎨 **Frontend:** React, Angular, React Native  
 - 🛢️ **Databases:** MySQL, Oracle  
 - 🐳 **Tools:** Docker, Redis, Jenkins, Kubernetes  
 - ☁️ **Others:** REST APIs, Agile, Microservices, CI/CD
