@@ -8,9 +8,9 @@ Here’s a focused 30-day Flutter roadmap tailored for an experienced software e
 
 Primary references:
 
-- https://www.canakyuz.dev/blog/learn-flutter
-- https://www.geeksforgeeks.org/blogs/flutter-roadmap/
-- https://www.youtube.com/watch?v=I11fZRTiXGU
+- [canakyuz](https://www.canakyuz.dev/blog/learn-flutter)
+- [geeksforgeeks](https://www.geeksforgeeks.org/blogs/flutter-roadmap/)
+- [YouTube walkthrough](https://www.youtube.com/watch?v=I11fZRTiXGU)
 
 ## Overall structure
 
