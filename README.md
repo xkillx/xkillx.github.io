@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Azhar Khalid
+# Azhar Khalid - Full-Stack Engineer | Portfolio
 
 **`Backend Engineering Enthusiast | Problem Solver | Clean Code Advocate`**
 
@@ -20,11 +20,11 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 
 ## 🔧 Tech Stack
 
-- 🧠 **Languages:** Java, SQL, PL/SQL  
-- 🚀 **Frameworks:** Spring Boot, Vert.x, JSP, Struts  
-- 🎨 **Frontend:** React, Angular, React Native  
-- 🛢️ **Databases:** MySQL, Oracle  
-- 🐳 **Tools:** Docker, Redis, Jenkins, Kubernetes  
+- 🧠 **Languages:** Java, SQL, PL/SQL
+- 🚀 **Frameworks:** Spring Boot, Vert.x, JSP, Struts
+- 🎨 **Frontend:** React, Angular, React Native
+- 🛢️ **Databases:** MySQL, Oracle
+- 🐳 **Tools:** Docker, Redis, Jenkins, Kubernetes
 - ☁️ **Others:** REST APIs, Agile, Microservices, CI/CD
 
 ---
@@ -39,49 +39,61 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ## 💼 Work Experience
 
-### 🟢 **Senior Backend Developer** – VIDA Digital Identity  
-📅 *May 2022 – Present*  
-- Designed system and service architectures.  
-- Created technical documentation and interservice communication plans.  
-- Developed and deployed scalable microservices for VIDA Sign platform.  
+### 🟢 **Senior Backend Developer** – VIDA Digital Identity
+
+📅 _May 2022 – Present_
+
+- Designed system and service architectures.
+- Created technical documentation and interservice communication plans.
+- Developed and deployed scalable microservices for VIDA Sign platform.
 - Participated in Agile sprints and QA support.  
-**Tech Stack:** Java, Spring Boot, MySQL, Docker, Kubernetes, Redis, Jenkins
+  **Tech Stack:** Java, Spring Boot, MySQL, Docker, Kubernetes, Redis, Jenkins
 
 ---
 
-### 🔵 **Backend Developer** – OTTO Digital  
-📅 *May 2018 – Apr 2022*  
-- Built APIs for mobile platforms and backend integrations.  
-- Developed test automation with Rest Assured.  
+### 🔵 **Backend Developer** – OTTO Digital
+
+📅 _May 2018 – Apr 2022_
+
+- Built APIs for mobile platforms and backend integrations.
+- Developed test automation with Rest Assured.
 - Collaborated with teams for feature development and delivery.  
-**Tech Stack:** Java, Vert.x, MySQL, WSO2 API Gateway
+  **Tech Stack:** Java, Vert.x, MySQL, WSO2 API Gateway
 
 ---
 
-### 🟠 **Java Developer** – XL Axiata  
-📅 *Apr 2017 – Apr 2018*  
-- Maintained web and backend systems for XL Prioritas.  
+### 🟠 **Java Developer** – XL Axiata
+
+📅 _Apr 2017 – Apr 2018_
+
+- Maintained web and backend systems for XL Prioritas.
 - Debugged production issues and contributed to sprint cycles.  
-**Tech Stack:** Spring, JSP, Oracle DB
+  **Tech Stack:** Spring, JSP, Oracle DB
 
 ---
 
-### 🟡 **Java Developer** – Dimo Pay  
-📅 *Jan 2017 – Mar 2017*  
+### 🟡 **Java Developer** – Dimo Pay
+
+📅 _Jan 2017 – Mar 2017_
+
 - Developed credit card access portals and internal tools.  
-**Tech Stack:** Spring Framework, ThymeLeaf, MySQL
+  **Tech Stack:** Spring Framework, ThymeLeaf, MySQL
 
 ---
 
-### 🔴 **PL/SQL Developer** – Adira Finance  
-📅 *May 2016 – Dec 2016*  
+### 🔴 **PL/SQL Developer** – Adira Finance
+
+📅 _May 2016 – Dec 2016_
+
 - Enhanced account management modules and fixed production bugs.  
-**Tech Stack:** Oracle PL/SQL, Oracle Forms
+  **Tech Stack:** Oracle PL/SQL, Oracle Forms
 
 ---
 
-### 🟤 **Java Bootcamp Trainee** – Xsis Mitra Utama  
-📅 *Feb 2016 – May 2016*  
+### 🟤 **Java Bootcamp Trainee** – Xsis Mitra Utama
+
+📅 _Feb 2016 – May 2016_
+
 - Completed intensive training in Java, OOP, Spring, and JSP.
 
 ---
