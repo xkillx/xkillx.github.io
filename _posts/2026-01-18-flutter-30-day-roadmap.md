@@ -134,4 +134,4 @@ Focus: one **coherent** app using the full stack of concepts. [canakyuz](https:/
   - Polish UI, add loading/error states, simple tests on critical flows. [canakyuz](https://www.canakyuz.dev/blog/learn-flutter)
   - Prepare GitHub repo and short README; optionally ship to Play Store as a learning exercise. [careerswami](https://careerswami.com/complete-flutter-developer-roadmap/)
 
-If you share how many hours/day you realistically have and whether you prefer more project-based vs theory-heavy, this plan can be adjusted to a more aggressive or relaxed variant.
+Ready to dive in? Adapt the pace to your schedule, ship the capstone, and share what you build—happy coding!
