@@ -108,3 +108,20 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 ---
 
 _Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate, chat tech, or just say hello 🙂_
+
+---
+
+## Blog
+
+- **Write a post**
+  - Create a file in `_posts/` named `YYYY-MM-DD-title.md`
+  - Add front matter at the top:
+
+    ```
+    ---
+    title: My Post Title
+    ---
+    ```
+
+- **View the blog**
+  - Blog index: `/blog/`

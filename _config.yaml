@@ -1,5 +1,14 @@
 title: Azhar Khalid
-logo: photo_circle.png
+logo: cropped_circle.png
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
+permalink: /blog/:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
