@@ -1,5 +1,5 @@
 ---
-title: Rust Pros and Cons: 10 Advantages and 10 Disadvantages
+title: Rust Pros and Cons 10 Advantages and 10 Disadvantages
 ---
 
 ![Rust](/images/rust.jpeg)
