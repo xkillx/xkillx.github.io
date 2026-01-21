@@ -1,5 +1,5 @@
 ---
-title: 11 Free Rust Resources (Official -> Hands-on -> Video)
+title: 11 Free Resources for Learning Rust
 ---
 
 Learning Rust can feel overwhelming at first. The ecosystem is rich, but scattered across books, courses, videos, and repositories. This guide curates 11 high-quality, completely free Rust learning resources, organized in a logical progression from official documentation to structured courses and hands-on practice, so you can move from fundamentals to real-world proficiency without wasting time searching.
