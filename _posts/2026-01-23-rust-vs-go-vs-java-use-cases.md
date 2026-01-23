@@ -58,10 +58,10 @@ Despite experimental Rust mobile toolchains, Android still revolves around Java 
 
 ## References
 
-1. Bitfield Consulting. "Rust vs Go." https://bitfieldconsulting.com/posts/rust-vs-go
-2. JetBrains Blog. "Rust vs Go." https://blog.jetbrains.com/rust/2025/06/12/rust-vs-go/
-3. JetBrains Blog. "Rust vs Java." https://blog.jetbrains.com/rust/2025/08/01/rust-vs-java/
-4. roadmap.sh. "Golang vs Rust." https://roadmap.sh/golang/vs-rust
-5. Reddit. "What use cases does Rust cover better than Go?" https://www.reddit.com/r/rust/comments/ts8ptq/what_use_cases_does_rust_cover_better_than_go/
-6. Reddit. "Speed of Go vs Rust in practice." https://www.reddit.com/r/rust/comments/14gullp/speed_of_go_vs_rust_in_practicereal_world/
-7. Digiscorp. "Rust vs Go: Which programming language is best for your project?" https://digiscorp.com/rust-vs-go-which-programming-language-is-best-for-your-project/
+1. [Bitfield Consulting. "Rust vs Go."](https://bitfieldconsulting.com/posts/rust-vs-go)
+2. [JetBrains Blog. "Rust vs Go."](https://blog.jetbrains.com/rust/2025/06/12/rust-vs-go/)
+3. [JetBrains Blog. "Rust vs Java."](https://blog.jetbrains.com/rust/2025/08/01/rust-vs-java/)
+4. [roadmap.sh. "Golang vs Rust."](https://roadmap.sh/golang/vs-rust)
+5. [Reddit. "What use cases does Rust cover better than Go?"](https://www.reddit.com/r/rust/comments/ts8ptq/what_use_cases_does_rust_cover_better_than_go/)
+6. [Reddit. "Speed of Go vs Rust in practice."](https://www.reddit.com/r/rust/comments/14gullp/speed_of_go_vs_rust_in_practicereal_world/)
+7. [Digiscorp. "Rust vs Go: Which programming language is best for your project?"](https://digiscorp.com/rust-vs-go-which-programming-language-is-best-for-your-project/)
