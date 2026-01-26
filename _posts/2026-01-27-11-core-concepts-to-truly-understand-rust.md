@@ -1,5 +1,6 @@
 ---
 title: 11 Core Concepts to Truly Understand Rust
+date: 2026-01-26 00:00:00 +0700
 ---
 
 ![Rust](/images/rust-concept.jpg)
