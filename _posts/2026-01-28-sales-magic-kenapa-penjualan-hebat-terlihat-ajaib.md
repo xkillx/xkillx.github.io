@@ -3,8 +3,6 @@ title: Sales Magic Kenapa Penjualan Hebat Terlihat Ajaib (Padahal Tidak)
 date: 2026-01-28 00:00:00 +0700
 ---
 
-# Sales Magic: Kenapa Penjualan Hebat Terlihat Ajaib (Padahal Tidak)
-
 ![Sales Magic](/images/tdw-sales-magic.jpg)
 
 Banyak orang melihat penjual hebat seperti pesulap.
