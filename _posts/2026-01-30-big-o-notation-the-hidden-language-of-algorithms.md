@@ -1,5 +1,5 @@
 ---
-title: Big-O Notation: The Hidden Language of Algorithms
+title: Big-O Notation The Hidden Language of Algorithms
 date: 2026-01-30
 image: /images/big-o-notation.jpg
 ---
