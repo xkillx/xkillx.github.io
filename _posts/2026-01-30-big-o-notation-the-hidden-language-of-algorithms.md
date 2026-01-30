@@ -1,8 +1,9 @@
 ---
 title: Big-O Notation The Hidden Language of Algorithms
 date: 2026-01-30
-image: /images/big-o-notation.jpg
 ---
+
+![Big-O Notation header](/images/big-o-notation.jpg)
 
 Love this topic: **Big-O is where code meets reality**
 Let’s do it properly and make it _blog-ready_.
