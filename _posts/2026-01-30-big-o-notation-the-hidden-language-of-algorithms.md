@@ -5,13 +5,6 @@ date: 2026-01-30
 
 ![Big-O Notation header](/images/big-o-notation.jpg)
 
-Love this topic: **Big-O is where code meets reality**
-Let’s do it properly and make it _blog-ready_.
-
----
-
-# **Big-O Notation: The Hidden Language of Algorithms**
-
 When people first learn to code, everything feels simple:
 you write a loop, the program runs, and you get the result.
 
