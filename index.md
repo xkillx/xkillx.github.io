@@ -44,7 +44,7 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 - **Frameworks:** Spring Boot, Vert.x, JSP, Struts
 - **Frontend:** React, Angular, React Native
 - **Databases:** MySQL, Oracle
-- **Tools:** Docker, Redis, Jenkins, Kubernetes
+- **Tools:** Docker, Redis, Jenkins, Kubernetes, Claude Code, Cursor
 - **Others:** REST APIs, Agile, Microservices, CI/CD
 
 ---
