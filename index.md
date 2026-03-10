@@ -1,21 +1,19 @@
 ---
 layout: default
-title: Azhar Khalid - Full-Stack Engineer | Portfolio
+title: Azhar Khalid - Senior Backend Engineer
 ---
 
-# Azhar Khalid - Full-Stack Engineer | Portfolio
+# Azhar Khalid - Senior Backend Engineer
 
-**`Fullstack Engineer | Problem Solver | Clean Code Advocate`**
+**Senior Backend Engineer | Microservices Architecture | Distributed Systems**
 
-With 10 years of experience building scalable backend systems, I specialize in Java, Spring Boot, and microservices architecture. I've delivered high-impact solutions in digital identity, telecom, and finance industries, focusing on clean code, system performance, and engineering best practices.
+Senior backend engineer with 10 years of experience building scalable, production-grade systems. Specialized in Java, Spring Boot, and microservices architecture with a track record of delivering resilient solutions in digital identity, telecom, and finance industries. Passionate about clean code, system performance, and engineering excellence.
 
 ---
 
-## About Me
+## What I Do
 
-I'm a fullstack engineer with 10 years of experience turning complex challenges into elegant, scalable solutions. I've built resilient systems in finance, telecom, and digital identity industries using Java, Spring Boot, Docker, and databases like Oracle and MySQL.
-
-I thrive in deep-dive debugging, clean code architecture, and crafting high-performance systems. Backend engineering isn't just my profession—it's my playground.
+I design and implement backend systems that scale. From microservices architecture to database optimization, I focus on building maintainable, high-performance solutions that solve real business problems.
 
 ---
 
