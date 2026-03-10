@@ -23,6 +23,15 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 
 ---
 
+## 🔥 What I'm Currently Working On
+
+- 🚀 **Building scalable microservices** at VIDA Digital Identity for identity verification platform
+- 📚 **Exploring advanced Kubernetes patterns** for production deployment optimization
+- 🎯 **Deepening expertise in distributed systems** and event-driven architecture
+- ✍️ **Writing technical blog posts** about backend engineering best practices
+
+---
+
 ## 🔧 Tech Stack
 
 - 🧠 **Languages:** Java, SQL, PL/SQL
