@@ -11,7 +11,7 @@ With 10 years of experience building scalable backend systems, I specialize in J
 
 ---
 
-## 💡 About Me
+## About Me
 
 I'm a fullstack engineer with 10 years of experience turning complex challenges into elegant, scalable solutions. I've built resilient systems in finance, telecom, and digital identity industries using Java, Spring Boot, Docker, and databases like Oracle and MySQL.
 
@@ -19,16 +19,16 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 
 ---
 
-## 🔥 What I'm Currently Working On
+## What I'm Currently Working On
 
-- 🚀 **Building scalable microservices** at VIDA Digital Identity for identity verification platform
-- 📚 **Exploring advanced Kubernetes patterns** for production deployment optimization
-- 🎯 **Deepening expertise in distributed systems** and event-driven architecture
-- ✍️ **Writing technical blog posts** about backend engineering best practices
+- **Building scalable microservices** at VIDA Digital Identity for identity verification platform
+- **Exploring advanced Kubernetes patterns** for production deployment optimization
+- **Deepening expertise in distributed systems** and event-driven architecture
+- **Writing technical blog posts** about backend engineering best practices
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -39,26 +39,27 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- 🧠 **Languages:** Java, Rust, Go, SQL, PL/SQL
-- 🚀 **Frameworks:** Spring Boot, Vert.x, JSP, Struts
-- 🎨 **Frontend:** React, Angular, React Native
-- 🛢️ **Databases:** MySQL, Oracle
-- 🐳 **Tools:** Docker, Redis, Jenkins, Kubernetes
-- ☁️ **Others:** REST APIs, Agile, Microservices, CI/CD
+- **Languages:** Java, Rust, Go, SQL, PL/SQL
+- **Frameworks:** Spring Boot, Vert.x, JSP, Struts
+- **Frontend:** React, Angular, React Native
+- **Databases:** MySQL, Oracle
+- **Tools:** Docker, Redis, Jenkins, Kubernetes
+- **Others:** REST APIs, Agile, Microservices, CI/CD
 
 ---
 
-## 📚 Education
+## Education
 
-🎓 **Bachelor of Computer Science**  
-STMIK Pranata Indonesia (2012–2016)  
+**Bachelor of Computer Science**
+STMIK Pranata Indonesia (2012–2016)
 GPA: **3.62** – Top of class, solid foundation in software development principles.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 🟢 **Senior Backend Developer** – VIDA Digital Identity
+### **Senior Backend Developer** – VIDA Digital Identity
+<img src="https://vidaid.com/wp-content/uploads/2023/03/VIDA-Logo.png" alt="VIDA" height="30">
 
 📅 _May 2022 – Present_
 
@@ -70,7 +71,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-### 🔵 **Backend Developer** – OTTO Digital
+### **Backend Developer** – OTTO Digital
+<img src="https://otto.co.id/favicon.ico" alt="OTTO" height="30">
 
 📅 _May 2018 – Apr 2022_
 
@@ -82,7 +84,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-### 🟠 **Java Developer** – XL Axiata
+### **Java Developer** – XL Axiata
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/XL_Axiata_logo_%282017%29.svg" alt="XL Axiata" height="30">
 
 📅 _Apr 2017 – Apr 2018_
 
@@ -94,7 +97,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-### 🟡 **Java Developer** – Dimo Pay
+### **Java Developer** – Dimo Pay
+<img src="https://dimo.co.id/wp-content/uploads/2020/08/cropped-DIMO-logo-1.png" alt="Dimo Pay" height="30">
 
 📅 _Jan 2017 – Mar 2017_
 
@@ -105,7 +109,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-### 🔴 **PL/SQL Developer** – Adira Finance
+### **PL/SQL Developer** – Adira Finance
+<img src="https://www.adira.co.id/adirafinancedesktop/assets/img/logo-adira.png" alt="Adira Finance" height="30">
 
 📅 _May 2016 – Dec 2016_
 
@@ -116,7 +121,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-### 🟤 **Java Bootcamp Trainee** – Xsis Mitra Utama
+### **Java Bootcamp Trainee** – Xsis Mitra Utama
+<img src="https://xsis.co.id/wp-content/uploads/2020/04/cropped-XSIS-Logo-Baru.png" alt="Xsis" height="30">
 
 📅 _Feb 2016 – May 2016_
 
@@ -125,21 +131,21 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-## 📫 Let's Work Together
+## Let's Work Together
 
 **Interested in collaborating or have a question? I'd love to hear from you!**
 
 **Get in touch:**
 
-📧 **Email:** [azhar.tkjzone@gmail.com](mailto:azhar.tkjzone@gmail.com)
-📞 **WhatsApp:** [+62 877-8866-2113](https://wa.me/6287788662113)
-🔗 **LinkedIn:** [linkedin.com/in/khalid-azhar](https://linkedin.com/in/khalid-azhar)
+- **Email:** [azhar.tkjzone@gmail.com](mailto:azhar.tkjzone@gmail.com)
+- **WhatsApp:** [+62 877-8866-2113](https://wa.me/6287788662113)
+- **LinkedIn:** [linkedin.com/in/khalid-azhar](https://linkedin.com/in/khalid-azhar)
 
 **Resources:**
 
-📄 [Download Resume](/Azhar-Khalid-Resume.pdf) ![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobe&logoColor=white)
-📝 [Blog](https://azharkhalid.com/blog) – Technical articles & insights
-🌐 [Website](https://azharkhalid.com)
+- [Download Resume](/Azhar-Khalid-Resume.pdf) ![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobe&logoColor=white)
+- [Blog](https://azharkhalid.com/blog) – Technical articles & insights
+- [Website](https://azharkhalid.com)
 
 ---
 
