@@ -32,12 +32,14 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-- 🧠 **Languages:** Java, SQL, PL/SQL
+- 🧠 **Languages:** Java, Rust, Go, SQL, PL/SQL
 - 🚀 **Frameworks:** Spring Boot, Vert.x, JSP, Struts
 - 🎨 **Frontend:** React, Angular, React Native
 - 🛢️ **Databases:** MySQL, Oracle
