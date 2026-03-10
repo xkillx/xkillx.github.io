@@ -5,7 +5,7 @@ title: Azhar Khalid - Senior Backend Engineer
 
 # Azhar Khalid - Senior Backend Engineer
 
-**Senior Backend Engineer | Microservices Architecture | Distributed Systems**
+**Senior Backend Engineer** · **Microservices Architecture** · **Distributed Systems**
 
 Senior backend engineer with 10 years of experience building scalable, production-grade systems. Specialized in Java, Spring Boot, and microservices architecture with a track record of delivering resilient solutions in digital identity, telecom, and finance industries. Passionate about clean code, system performance, and engineering excellence.
 
