@@ -113,6 +113,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ## 📫 Let's Connect
 
+**📄 Download Resume** [![PDF](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe&logoColor=white)](/Azhar-Khalid-Resume.pdf)
+
 - 📞 **+62 877-8866-2113** [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6287788662113)
 - 📧 [azhar.tkjzone@gmail.com](mailto:azhar.tkjzone@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/khalid-azhar)
