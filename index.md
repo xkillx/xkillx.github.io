@@ -125,15 +125,21 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Work Together
 
-**📄 Download Resume** [![PDF](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=adobe&logoColor=white)](/Azhar-Khalid-Resume.pdf)
+**Interested in collaborating or have a question? I'd love to hear from you!**
 
-- 📞 **+62 877-8866-2113** [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/6287788662113)
-- 📧 [azhar.tkjzone@gmail.com](mailto:azhar.tkjzone@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/khalid-azhar)
-- 📝 [Blog](https://azharkhalid.com/blog)
-- 🌐 [azharkhalid.com](https://azharkhalid.com)
+**Get in touch:**
+
+📧 **Email:** [azhar.tkjzone@gmail.com](mailto:azhar.tkjzone@gmail.com)
+📞 **WhatsApp:** [+62 877-8866-2113](https://wa.me/6287788662113)
+🔗 **LinkedIn:** [linkedin.com/in/khalid-azhar](https://linkedin.com/in/khalid-azhar)
+
+**Resources:**
+
+📄 [Download Resume](/Azhar-Khalid-Resume.pdf) ![PDF](https://img.shields.io/badge/PDF-red?style=flat-square&logo=adobe&logoColor=white)
+📝 [Blog](https://azharkhalid.com/blog) – Technical articles & insights
+🌐 [Website](https://azharkhalid.com)
 
 ---
 
