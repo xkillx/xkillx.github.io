@@ -38,6 +38,7 @@ I thrive in deep-dive debugging, clean code architecture, and crafting high-perf
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+<br>
 
 - **Languages:** Java, Rust, Go, SQL, PL/SQL
 - **Frameworks:** Spring Boot, Vert.x, JSP, Struts
@@ -59,20 +60,19 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 ## Work Experience
 
 ### **Senior Backend Developer** – VIDA Digital Identity
-<img src="https://vidaid.com/wp-content/uploads/2023/03/VIDA-Logo.png" alt="VIDA" height="30">
 
 📅 _May 2022 – Present_
 
 - Designed system and service architectures.
 - Created technical documentation and interservice communication plans.
 - Developed and deployed scalable microservices for VIDA Sign platform.
-- Participated in Agile sprints and QA support.  
-  **Tech Stack:** Java, Spring Boot, MySQL, Docker, Kubernetes, Redis, Jenkins
+- Participated in Agile sprints and QA support.
+
+**Tech Stack:** Java, Spring Boot, MySQL, Docker, Kubernetes, Redis, Jenkins
 
 ---
 
 ### **Backend Developer** – OTTO Digital
-<img src="https://otto.co.id/favicon.ico" alt="OTTO" height="30">
 
 📅 _May 2018 – Apr 2022_
 
@@ -80,12 +80,12 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 - Developed test automation framework using Rest Assured
 - Integrated third-party backend systems
 - Collaborated in cross-functional teams
-  **Tech Stack:** Java, Vert.x, MySQL, WSO2 API Gateway
+
+**Tech Stack:** Java, Vert.x, MySQL, WSO2 API Gateway
 
 ---
 
 ### **Java Developer** – XL Axiata
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/XL_Axiata_logo_%282017%29.svg" alt="XL Axiata" height="30">
 
 📅 _Apr 2017 – Apr 2018_
 
@@ -93,36 +93,36 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 - Resolved critical production bugs
 - Implemented performance optimizations improving query response
 - Delivered features in Agile sprints
-  **Tech Stack:** Spring, JSP, Oracle DB
+
+**Tech Stack:** Spring, JSP, Oracle DB
 
 ---
 
 ### **Java Developer** – Dimo Pay
-<img src="https://dimo.co.id/wp-content/uploads/2020/08/cropped-DIMO-logo-1.png" alt="Dimo Pay" height="30">
 
 📅 _Jan 2017 – Mar 2017_
 
 - Developed secure credit card access portal
 - Built internal administrative tools reducing manual data processing
 - Implemented Spring Security features
-  **Tech Stack:** Spring Framework, ThymeLeaf, MySQL
+
+**Tech Stack:** Spring Framework, ThymeLeaf, MySQL
 
 ---
 
 ### **PL/SQL Developer** – Adira Finance
-<img src="https://www.adira.co.id/adirafinancedesktop/assets/img/logo-adira.png" alt="Adira Finance" height="30">
 
 📅 _May 2016 – Dec 2016_
 
 - Enhanced account management modules supporting daily processing of customer accounts
 - Debugged and resolved production bugs improving system reliability
 - Optimized complex SQL queries for report generation
-  **Tech Stack:** Oracle PL/SQL, Oracle Forms
+
+**Tech Stack:** Oracle PL/SQL, Oracle Forms
 
 ---
 
 ### **Java Bootcamp Trainee** – Xsis Mitra Utama
-<img src="https://xsis.co.id/wp-content/uploads/2020/04/cropped-XSIS-Logo-Baru.png" alt="Xsis" height="30">
 
 📅 _Feb 2016 – May 2016_
 
