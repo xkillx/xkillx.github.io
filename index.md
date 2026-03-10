@@ -60,9 +60,10 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 📅 _May 2018 – Apr 2022_
 
-- Built APIs for mobile platforms and backend integrations.
-- Developed test automation with Rest Assured.
-- Collaborated with teams for feature development and delivery.  
+- Built high-performance APIs mobile platform requests
+- Developed test automation framework using Rest Assured
+- Integrated third-party backend systems
+- Collaborated in cross-functional teams
   **Tech Stack:** Java, Vert.x, MySQL, WSO2 API Gateway
 
 ---
@@ -71,8 +72,10 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 📅 _Apr 2017 – Apr 2018_
 
-- Maintained web and backend systems for XL Prioritas.
-- Debugged production issues and contributed to sprint cycles.  
+- Maintained backend systems for XL Prioritas
+- Resolved critical production bugs
+- Implemented performance optimizations improving query response
+- Delivered features in Agile sprints
   **Tech Stack:** Spring, JSP, Oracle DB
 
 ---
@@ -81,7 +84,9 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 📅 _Jan 2017 – Mar 2017_
 
-- Developed credit card access portals and internal tools.  
+- Developed secure credit card access portal
+- Built internal administrative tools reducing manual data processing
+- Implemented Spring Security features
   **Tech Stack:** Spring Framework, ThymeLeaf, MySQL
 
 ---
@@ -90,7 +95,9 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 📅 _May 2016 – Dec 2016_
 
-- Enhanced account management modules and fixed production bugs.  
+- Enhanced account management modules supporting daily processing of customer accounts
+- Debugged and resolved production bugs improving system reliability
+- Optimized complex SQL queries for report generation
   **Tech Stack:** Oracle PL/SQL, Oracle Forms
 
 ---
@@ -99,7 +106,8 @@ GPA: **3.62** – Top of class, solid foundation in software development princip
 
 📅 _Feb 2016 – May 2016_
 
-- Completed intensive training in Java, OOP, Spring, and JSP.
+- Completed intensive training program in Java, OOP, Spring, and JSP
+- Built foundation in software architecture patterns and database design principles
 
 ---
 
